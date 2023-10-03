@@ -1,4 +1,4 @@
-# avocado-price-dashboard
-Creating a web interactive dashboard
-I created an web interactive dashboard using dash.
-The dashboard is about the prices of avocado in each state in the United State of America across different years
+# Avocado Price Dashboard
+
+This is a simple web application built using Dash, a Python framework for building interactive web applications. The application allows users to explore avocado price data for different cities in the United States.
+
